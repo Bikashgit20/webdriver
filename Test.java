@@ -30,6 +30,7 @@ class MyThread extends Thread
 		for(int i=0;i<=10;i++)
 		{
 			System.out.println("i want to first position");	
+			Ststem.out.println("and also second position");
 		}
 		
 	}
